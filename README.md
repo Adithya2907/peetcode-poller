@@ -35,4 +35,5 @@ The result of the evaluation is the passed back to the caller.
 ![architecture](https://github.com/Adithya2907/peetcode-poller/assets/56926966/900389e5-c4d3-4d4d-a916-03dc7d3375ad)
 
 ## Demo
-https://drive.google.com/file/d/1W8-NYOTXS6uGbvWGZREf47JRRI1RS-7y/view?usp=sharing
+https://github.com/Adithya2907/peetcode-poller/assets/56926966/3b3e4c3b-d833-4cd0-bea6-6e1f8b460989
+
