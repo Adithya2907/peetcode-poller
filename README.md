@@ -32,8 +32,11 @@ The result of the evaluation is the passed back to the caller.
 - Start the server by running `node routes.js`. This automatically starts the sender as well
 
 ## Architecture of the backend
-![architecture](https://github.com/Adithya2907/peetcode-poller/assets/56926966/900389e5-c4d3-4d4d-a916-03dc7d3375ad)
+![architecture](https://github.com/Adithya2907/peetcode-poller/assets/56926966/2745e437-b8e0-4e77-bf6f-be621b507840)
+
 
 ## Demo
-https://github.com/Adithya2907/peetcode-poller/assets/56926966/3b3e4c3b-d833-4cd0-bea6-6e1f8b460989
+https://github.com/Adithya2907/peetcode-poller/assets/56926966/b4d9c02c-12bc-4c92-b267-a25b11033107
+
+
 
