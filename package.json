@@ -1,0 +1,21 @@
+{
+  "name": "polling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "validator": "node code/validator.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "axios": "^1.4.0",
+    "dockerode": "^3.3.5",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "tar": "^6.1.14"
+  }
+}
