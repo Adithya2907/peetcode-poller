@@ -30,3 +30,9 @@ The result of the evaluation is the passed back to the caller.
 - Install the dependencies using `npm install`
 - Start the receiver by running `node queue/receiver.js`
 - Start the server by running `node routes.js`. This automatically starts the sender as well
+
+## Architecture of the backend
+![architecture](https://github.com/Adithya2907/peetcode-poller/assets/56926966/900389e5-c4d3-4d4d-a916-03dc7d3375ad)
+
+## Demo
+https://drive.google.com/file/d/1W8-NYOTXS6uGbvWGZREf47JRRI1RS-7y/view?usp=sharing
