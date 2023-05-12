@@ -62,7 +62,7 @@ function generateUuid() {
 createQueue()
   .then((res) => {
     queue = res;
-    console.log("Ok, created");
+    console.log("Ok, sender is waiting...");
   })
   .catch((error) => {
     console.log("Error: ", error);

@@ -8,6 +8,7 @@ This is a simple backend project which evaluates PeetCode submissions
 - Compiles and rules only C++ programs for now
 - Assumes that the solutions are simple integers
 - Right now the problem numbers and their corresponding solutions are hardcoded
+- Focused only on the backend evaluation part; haven't connected with frontend
 
 ## Features
 
@@ -24,6 +25,8 @@ The result of the evaluation is the passed back to the caller.
 ## Installation
 
 - To run the program, it is expected that RabbitMQ is set up and running on port `5672`.
+- Docker must be installed and running on the system
+- Build the image by running `docker build . -t <IMAGENAME>`. Make sure you update the image name in the constants file
 - Install the dependencies using `npm install`
 - Start the receiver by running `node queue/receiver.js`
 - Start the server by running `node routes.js`. This automatically starts the sender as well
